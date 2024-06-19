@@ -1,0 +1,17 @@
+.contact-page {
+    margin: 20px;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+  }
+  
+  .contact-page p {
+    font-size: 1.2em;
+    color: #333;
+  }
+  
+  .contact-page a {
+    color: #333;
+    text-decoration: underline;
+  }
+  

@@ -1,0 +1,12 @@
+.edibles-page {
+    padding: 20px;
+    margin-top: 70px;
+    margin-left: 325px; /* Adjust margin to ensure it doesn't overlap with the sidebar */
+    background-color: #fff;
+  }
+  
+  .edibles-page h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  

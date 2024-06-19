@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to bottom, #FCC7BC, #FFD8A8, #fa8c04, #FFD8A8, #FCC7BC);
+  height: 100vh;
+}
+
+.App {
+  text-align: center;
+}
+
+.main-container {
+  display: flex;
+}
+
+.sidebar {
+  background-color: #f5f5f5;
+  padding: 10px;
+  width: 200px;
+}
+
+.product-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

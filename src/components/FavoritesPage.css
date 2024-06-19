@@ -1,0 +1,13 @@
+.favorites-page {
+    padding: 20px;
+    margin-top: 70px;
+    margin-left: 50px; /* Adjust the margin to ensure it's not overlapped by the sidebar */
+    background-color: #fff;
+  }
+  
+  .favorites-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
